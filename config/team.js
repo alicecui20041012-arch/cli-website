@@ -52,7 +52,7 @@ const team = {
     name: "Gaurav Jain",
     title: "Venture Fellow",
     description:
-      "Gaurav Jain is a Venture Fellow at Embedding VC, working with the deals team.",
+      "Gaurav Jain is a Venture Fellow at Embedding VC. Based in Los Angeles, he is a consultant advising early-stage companies.",
     linkedin: "https://www.linkedin.com/in/gjain9/",
   },
   raihan: {
