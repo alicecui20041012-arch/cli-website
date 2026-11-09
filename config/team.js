@@ -48,6 +48,13 @@ const team = {
       "Arjun Hausner is a PhD student at Stanford working on climate, finance, energe economics, and food systems.",
     linkedin: "https://www.linkedin.com/in/arjun-lev-pillai-hausner/",
   },
+  gaurav: {
+    name: "Gaurav Jain",
+    title: "Venture Fellow",
+    description:
+      "Gaurav Jain is a Venture Fellow at Embedding VC, working with the deals team.",
+    linkedin: "https://www.linkedin.com/in/gjain9/",
+  },
   raihan: {
     name: "Raihan Ahmed",
     title: "Head of Scout",
